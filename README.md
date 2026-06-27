@@ -1,4 +1,4 @@
-# Hi, I'm Hafsa Ahamed H 👋
+# Hi, I'm Hafsa Ahamed H 
 
 > Web Developer | Passionate about building clean and functional web experiences
 
@@ -23,10 +23,18 @@
 
 ---
 
-## 🚀 Featured Project
+### 🚀 Featured Project
+
 
 ### [Hacora](https://github.com/HAFSAAHAMED/Hacora)
 > AI-powered full-stack e-commerce platform with mood-based shopping, image search, Groq AI assistant, and role-based access for Users, Sellers & Admins.
+> **Tech:** HTML, CSS, JavaScript, MongoDB, Groq AI
+
+---
+
+### [Smart Utility for Hostel & PGs](https://github.com/HAFSAAHAMED/Smart-utility-for-hostel-and-PGs-project)
+> A hostel management system with role-based access for Wardens & Students. Wardens can manage rooms, utility bills & complaints. Students can view their own room, bills & submit feedback securely via OTP login.
+> **Tech:** HTML, CSS, JavaScript, Python, Flask, SQLite, Google Sheets API, Gmail SMTP
 
 ---
 
